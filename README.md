@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/84wva9e98kot7vl3?svg=true)](https://ci.appveyor.com/project/KirillKazakoff/buffersecond)
